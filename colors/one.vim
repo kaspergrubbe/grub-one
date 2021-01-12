@@ -294,9 +294,9 @@ if has('gui_running') || has('termguicolors') || &t_Co == 88 || &t_Co == 256
   if &background ==# 'dark'
     let s:dark = 1
     let s:mono_1 = ['#fafafa', '145']
-    let s:mono_2 = ['#e1e1e1', '102']
-    let s:mono_3 = ['#cbcbcb', '59']
-    let s:mono_4 = ['#a5a5a5', '59']
+    let s:mono_2 = ['#828997', '102']
+    let s:mono_3 = ['#5c6370', '59']
+    let s:mono_4 = ['#4b5263', '59']
 
     let s:hue_1  = ['#56b6c2', '73'] " cyan
     let s:hue_2  = ['#61afef', '75'] " blue
